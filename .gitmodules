@@ -4,3 +4,6 @@
 [submodule "evmc"]
 	path = evmc
 	url = git@github.com:prvi-srpski-blockcein/evmc.git
+[submodule "intx"]
+	path = intx
+	url = https://github.com/chfast/intx.git
